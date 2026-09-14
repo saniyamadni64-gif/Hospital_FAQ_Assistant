@@ -1,0 +1,7 @@
+Project: Hospital FAQ Assistant
+
+Problem Statement:
+Patients repeatedly ask hospitals the same questions.
+
+Solution Statement:
+AI chatbot provides instant answers about hospital services.
